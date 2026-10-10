@@ -1,0 +1,2 @@
+# xtdpthresh
+Dynamic Panel Threshold Model (Seo-Shin 2016, Gong-Seo 2026) Use xtdpthresh With STATA 19
